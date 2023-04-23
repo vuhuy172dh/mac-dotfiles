@@ -11,11 +11,11 @@ icons.setup {
   default = true,
 }
 
-icons.set_icon {
+--[[ icons.set_icon {
   Dockerfile = {
     icon = "",
     color = "#428850",
     cterm_color = "65",
     name = "Dockerfile"
   }
-}
+} ]]

@@ -69,5 +69,4 @@ packer.startup(function(use)
   -- comment
   use 'numToStr/Comment.nvim'
   use 'JoosepAlviste/nvim-ts-context-commentstring'
-  use 'danymat/neogen'
 end)

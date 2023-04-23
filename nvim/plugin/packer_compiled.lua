@@ -139,11 +139,6 @@ _G.packer_plugins = {
     path = "/Users/M69H7Y76RG/.local/share/nvim/site/pack/packer/start/mason.nvim",
     url = "https://github.com/williamboman/mason.nvim"
   },
-  neogen = {
-    loaded = true,
-    path = "/Users/M69H7Y76RG/.local/share/nvim/site/pack/packer/start/neogen",
-    url = "https://github.com/danymat/neogen"
-  },
   ["neosolarized.nvim"] = {
     loaded = true,
     path = "/Users/M69H7Y76RG/.local/share/nvim/site/pack/packer/start/neosolarized.nvim",
@@ -193,6 +188,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/M69H7Y76RG/.local/share/nvim/site/pack/packer/start/nvim-ts-autotag",
     url = "https://github.com/windwp/nvim-ts-autotag"
+  },
+  ["nvim-ts-context-commentstring"] = {
+    loaded = true,
+    path = "/Users/M69H7Y76RG/.local/share/nvim/site/pack/packer/start/nvim-ts-context-commentstring",
+    url = "https://github.com/JoosepAlviste/nvim-ts-context-commentstring"
   },
   ["nvim-ufo"] = {
     loaded = true,
